@@ -6,4 +6,4 @@ dependencies:
       - ipyleaflet
       - ipywidgets
       - geojson 
-      - kepler.gl
+      - keplergl
