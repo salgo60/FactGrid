@@ -3,7 +3,4 @@ dependencies:
   - geopandas
   - pip:
       - sparqlwrapper
-      - ipyleaflet
-      - ipywidgets
-      - geojson 
       - keplergl
