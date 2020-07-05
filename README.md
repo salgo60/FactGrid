@@ -1,1 +1,1 @@
-# FactGrid test with Juopityr Notebook and Binder
+# FactGrid test with Jupyter Notebook and Binder
