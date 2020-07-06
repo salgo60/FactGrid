@@ -1,11 +1,6 @@
-channels:
-  - conda-forge
 dependencies:
   - pandas
   - geopandas
   - pip:
       - sparqlwrapper
-      - ipyleaflet
-      - ipywidgets
-      - geojson 
-      - kepler.gl
+      - keplergl
