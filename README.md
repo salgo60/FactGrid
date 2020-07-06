@@ -6,6 +6,6 @@ Run this with
 
 * the SPARQL ---> to [pandas](https://pandas.pydata.org/) part works using [binder](https://mybinder.org/) but not the [Kepler.gl]([Kepler.gl](https://kepler.gl/) maps 
 
-* see question binder discussion
+* see question [binder discussion](https://discourse.jupyter.org/t/kepler-gl-using-binder/5090)
 * using [jupyter notebook](https://jupyter.org/install.html)
 
