@@ -12,5 +12,5 @@ Run this with
   * **Maybe this is solved, open issue is how to save config in a nice way**
 * about using [jupyter notebook](https://jupyter.org/install.html)
 * [Wikibase](https://wikiba.se/)
-* [wikidata2df](https://github.com/jvfe/wikidata2df)
+* new Python utility package [wikidata2df](https://github.com/jvfe/wikidata2df)
 
