@@ -1,5 +1,7 @@
 # FactGrid (Wikibase) test with Jupyter Notebook and Binder and hopefully also [kepler.gl](https://kepler.gl/)
 
+* [Notebook](https://github.com/salgo60/FactGrid/blob/master/FactGrid%20-%3E%20Kepler.gl.ipynb)
+
 We are using [Jupyter Notebook](https://jupyter.org/) to access data and visualize data from [Wikibase](https://wikiba.se/) see example [The Illuminati Correspondence Fast Forward blog](https://blog.factgrid.de/archives/1695) / [visualisation](https://database.factgrid.de/tools/illuminati.html) - more about [Kepler.gl](https://kepler.gl/)
 
 Run this with 
